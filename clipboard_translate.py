@@ -16,6 +16,3 @@ while True:
         print(translation)
         text = str(translation).replace('&gt;', '>')
         clipboard.copy(str(translation).replace('&gt;', '>'))
-
-
-
